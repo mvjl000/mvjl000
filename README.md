@@ -7,7 +7,7 @@ I am a 19 y.o. self taught  frontend developer. I have been programming since th
 **Some quick info:**
 - 1.5 year of commercial experience in a fintech startup (JUN 2021 - OCT 2022),
 - I am in my final year of secondary school (till May 2023)
-- Currently polishing my coding skills & having fun with new and shiny JS frameworks 🤠 (kust kidding, only useful stuff )
+- Currently polishing my coding skills & having fun with new and shiny JS frameworks 🤠 (just kidding, only useful stuff )
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mi%C5%82osz-piskad%C5%82o-477a2a1b5/)](https://www.linkedin.com/in/mi%C5%82osz-piskad%C5%82o-477a2a1b5/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milosz.devmail@gmail.com)](mailto:milosz.devmail@gmail.com)
