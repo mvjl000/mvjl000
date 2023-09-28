@@ -2,7 +2,7 @@
 ### Hi, Miłosz here 👋
 
 
-I am a 19 y.o. self taught  frontend developer. I have been programming since the beginning of 2020 🦠 (such a great time to start coding 😅).
+I am a self taught frontend developer. I have been programming since the beginning of 2020 🦠 (such a great time to start coding 😅).
 
 **Some quick info:**
 - 1.5 year of commercial experience in a fintech startup (JUN 2021 - OCT 2022),
